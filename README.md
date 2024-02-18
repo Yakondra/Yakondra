@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandra</h1>
 <h3 align="center">A passionate data scientist from Spain</h3>
+<img src="readme2.jpg"/>
 
 - 🌱 I’m currently learning **tableau, docker**
 
